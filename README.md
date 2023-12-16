@@ -1,5 +1,4 @@
 ![GitHub1s](https://raw.githubusercontent.com/conwnet/github1s/master/resources/images/logo.svg)
-
 # github1s
 
 One second to read GitHub code with VS Code.
